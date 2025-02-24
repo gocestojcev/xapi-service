@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "xAPI",
-      "script": "./dist/server.js",
+      "script": "xapi-service/dist/server.js",
       "cwd": ".",
       "output": "logs/xapi_stdout.log",
       "error": "logs/xapi_stderr.log",
